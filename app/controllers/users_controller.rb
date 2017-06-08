@@ -55,5 +55,5 @@ class UsersController < ApplicationController
        redirect_to(:back, :notice => "Comment deleted.")
      end
    end
-   
+
 end

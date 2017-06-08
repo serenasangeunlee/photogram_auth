@@ -40,8 +40,6 @@ group :development do
   # Access an IRB console on exception pages or by using <%= console %> in views
   gem "better_errors"
   gem "binding_of_caller"
-  gem "listen"
-  gem "wdm" if Gem.win_platform?
   gem "pry-rails"
 end
 
